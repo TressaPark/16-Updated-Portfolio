@@ -11,7 +11,7 @@ Now that I have built a full-stack web application and have another project to s
 
 ## Build Status
 
-This project is waiting for help with software errors that are preventing me from commiting to GitHub.
+This project is complete.
 
 ### Tech Used
 
