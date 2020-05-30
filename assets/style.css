@@ -34,18 +34,6 @@ input[type=submit]:hover {
   background-color: #baced3;
 }
 
-/* input[type=portfolio] {
-  background-color:#baced3;
-  color: white;
-  padding: 12px 20px;
-  text-align:center; 
-  border: none;
-  cursor: pointer;
-}
-
-input[type=portfolio]:hover {
-  background-color: #baced3; */
-
 .container {
   border-radius: 5px;
   background-color: #baced3;
@@ -74,7 +62,7 @@ input[type=portfolio]:hover {
   display: table;
   clear: both;
 }
-/* Does margin go here? */
+
 .content {
   background-color: white;
   padding: 10px;
@@ -114,7 +102,7 @@ footer {
   }
 }
 
-/*Portfolio styling*/
+/*portfolio styling*/
 .main {
   max-width: 1000px;
   margin: auto;
