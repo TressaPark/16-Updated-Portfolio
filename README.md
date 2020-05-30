@@ -1,106 +1,40 @@
-# 16 Project 2: Updated Professional Materials
+# 16: Updated Professional Materials
 
 Now that I have built a full-stack web application and have another project to share, I have updated my portfolio page and other materials to add to my ability to become employer competitive.
 
-## Requirements
+## Motivation
 
-* Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments. 
+* Updated Portfolio Page with new projects
+* Updated GitHub Profile
+* Updated Resume
+* Updated LinkedIn Profile
 
-* Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments. 
+## Build Status
 
-* Updated resume
+This project is waiting for help with software errors that are preventing me from commiting to GitHub.
 
-* Updated LinkedIn profile
+### Tech Used
 
-## Grading
+* Bootstrap
+* CSS
+* HTML
 
-| Requirement      | Weight |
-|---               |---     |
-| Portoflio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
+#### Deployed Portfolio
 
+https://tressapark.github.io/16-Updated-Portfolio/
 
-## Instructions
+### Credits
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
+* Tutor Vivian Hguyen, Trilogy Education Services
+* Tutor Frederica Blissett, Varsity Tutors
+* Alex Bailon, partner for Group Project 2 (Home Body), Northwestern University
+* Herson Rodriguez, partner for Group Project 2 (Home Body), Northwestern University
 
-### Updated Portfolio
+## License
+![Image of Badge](https://img.shields.io/badge/license-Northwestern%20University-orange)
 
-Your updated site should have the following content:
+## Contact
+![Image of TressaPark](https://avatars3.githubusercontent.com/u/60233280?v=4)  
+   Please feel free to [email me](mailto:tressapark@gmail.com) if you have additional questions. Thank you.
 
-* Your name
-
-* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
-
-* A link to a PDF of your resume
-
-* A list of projects. For each project, make sure you have the following:
-
-  * Project title
-
-  * Link to the deployed version
-
-  * Link to the GitHub repository
-
-  * Screenshot of the deployed application
-
-
-#### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
-* Mobile-first design
-
-* Choose a color palette for your site so it doesn't just look like
-the default bootstrap theme or an unstyled HTML site.
-
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
-
-### Updated GitHub Profile 
-
-* If you haven't yet, now is the time to update the following in your GitHub profile: 
-
-    * Profile picture
-
-    * Bio
-
-    * Location
-
-    * Email
-
-    * Link to your portfolio
-
-* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
-
-* Pin some repos that you want to highlight
-
-  * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-  * Click "Customize your pins"
-
-  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
-
-* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
-
-
-### Updated Resume 
-
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
-
-
-### Updated LinkedIn Profile 
-
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
-
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+   Copyright ©2020 Tressa Park
